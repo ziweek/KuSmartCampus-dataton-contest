@@ -1,4 +1,4 @@
-# recommandation-for-installation-sun-umbrella
+# recommandation-for-Installation-of-sun-umbrella
 
 <h3 align="center"> 「 Stack 」  </h3>
 <p align="center">
