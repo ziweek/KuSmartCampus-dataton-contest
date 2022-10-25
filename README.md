@@ -9,13 +9,21 @@
   <br/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/>
+  <br/>
 </p>
 
+## Screenshot
+<br/>
+
 ## Concept
-<img src='./src/modeling.png' width=100%>
+#### Accouning Based Model
 <img src='./src/accouning_based_model.png' width=100%>
 <br/>
 
-## Screenshots
+#### Probability Based Model
+<img src='./src/probability_based_model.png' width=100%>
+<br/>
+
+## How to Use
 <img src='./src/how_to_use.png' width=100%>
 <br/>
